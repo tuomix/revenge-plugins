@@ -1,13 +1,1 @@
-{
-  "id": "vaultdms",
-  "name": "VaultDMs",
-  "version": "1.0.0",
-  "description": "Hide DM conversations behind a PIN-locked private vault.",
-  "authors": [
-    {
-      "name": "you",
-      "id": "000000000000000000"
-    }
-  ],
-  "main": "index.js"
-}
+{"id":"vaultdms","name":"VaultDMs","version":"1.0.0","description":"Hide DM conversations behind a PIN-locked private vault.","authors":[{"name":"you","id":"000000000000000000"}],"main":"index.js","hash":"26de7fc01cdc9f50a8fc61db30c153912b5a2b3b"}
